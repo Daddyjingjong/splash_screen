@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="splash_name">ASSIGNMENT 1</string>
+
+    //main activity
+    <string name="name">Enter name</string>
+    <string name="email">Enter email</string>
+    <string name="password">Enter password</string>
+    <string name="login">login</string>
+</resources>
